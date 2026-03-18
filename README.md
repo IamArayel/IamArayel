@@ -25,7 +25,8 @@
 [![](https://visitcount.itsvg.in/api?id=IamArayel&icon=2&color=7)](https://visitcount.itsvg.in) -->
 
 ### Contributions
-- [iloader](https://github.com/nab138/iloader/commit/6496d9887d808be20d30ec13f7aa453a271f70e0)
+- [iloader]([https://github.com/nab138/iloader/pull/103)
+- [exchange-platform](https://github.com/tomasz-franek/exchange-platform/pull/164)
 
 
   ## 💰 You can help me by Donating
