@@ -19,9 +19,9 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=IamArayel&theme=github_dark&hide_border=true&cache_seconds=86400" alt="IamArayel's GitHub Streak" width="49%" />
 </p>
-<p align="center">
+<!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=IamArayel&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="IamArayel's GitHub Trophies" />
-</p>
+</p> -->
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=IamArayel&theme=github_dark&radius=10" alt="IamArayel's Activity Graph" />
 </p>
@@ -41,44 +41,61 @@
 
 <h3 align="center">Frontend</h3>
 <p align="center">
+  <!-- React -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Vue.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Next.js -->
+  <img src="https://files.svgcdn.io/skill-icons/nextjs-light.png" alt="Next.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- html5 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- css3 -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- tailwindcss -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
-
+  <!-- bootstrap -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/960px-Bootstrap_logo.svg.png?_=20210507000024" alt="Bootstrap" width="40" />
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
+<!-- Node.js -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- Spring Boot-->
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" />
+  <!-- Laravel -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/laravel/laravel-original.svg" alt="Laravel" width="40" />
 
 </p>
 
 <h3 align="center">Database</h3>
 <p align="center">
+<!-- MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- PostgreSQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- SQLite -->
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
-
 </p>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />
+<!-- Docker -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="55" />
 
 </p>
 
 <h3 align="center">Tools</h3>
 <p align="center">
+  <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Visual Studio Code-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/vscode/vscode-original.svg" alt="VS Code" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Figma -->
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- Vite -->
   <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="40" />
 
 </p>
@@ -89,7 +106,11 @@
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=IamArayel)
+<div align="center">
+
+  ![Top language](https://stats.pphat.top/languages?username=IamArayel)
+</div>
+
 <br/>
 
 ## 🔗 Connect with Me
