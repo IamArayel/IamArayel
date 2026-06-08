@@ -120,7 +120,7 @@
   <a href="https://linkedin.com/in/anthonydegeilh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="anthonydegeilh.fr">
+  <a href="https://anthonydegeilh.fr">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
