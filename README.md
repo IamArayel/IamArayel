@@ -10,8 +10,7 @@
 <!-- <img src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" alt="Banner" width="100%"/> -->
 
 ## 📌 About Me
-- 🔰 Newly french dev, based on Reunion Island.
-- 🌱 Learning something new every day.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrain+Mono&size=30&duration=2000&pause=500&color=34CF12&vCenter=true&multiline=true&repeat=false&width=700&height=100&lines=%F0%9F%94%B0+French+dev%2C+based+on+Reunion+Island.;%F0%9F%8C%B1+Learning+something+new+every+day.)](https://git.io/typing-svg)
 
 
 ## 📊 GitHub Stats & Trophies
@@ -19,7 +18,7 @@
   <a href="https://github.com/IamArayel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IamArayel&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="IamArayel's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=IamArayel&theme=github_dark&hide_border=true&cache_seconds=86400" alt="IamArayel's GitHub Streak" width="49%" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IamArayel&theme=highcontrast&locale=fr&short_numbers=true&background=40%2C59DA0EE1%2C176210&dates=000000&stroke=EBEBEB" alt="GitHub Streak" /></a>
 </p>
 <!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=IamArayel&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="IamArayel's GitHub Trophies" />
