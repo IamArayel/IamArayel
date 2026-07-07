@@ -14,12 +14,15 @@
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
+<div align="center">
   <a href="https://github.com/IamArayel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IamArayel&cache_seconds=7200&layout=compact&theme=github_dark&border_radius=10" alt="IamArayel's GitHub Stats" />
   </a>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IamArayel&theme=highcontrast&locale=fr&short_numbers=true&background=40%2C59DA0EE1%2C176210&dates=000000&stroke=EBEBEB" alt="GitHub Streak" /></a>
-</p>
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=IamArayel&theme=highcontrast&locale=fr&short_numbers=true&background=40%2C59DA0EE1%2C176210&dates=000000&stroke=EBEBEB" alt="GitHub Streak" />
+  </a>
+</div>
+
 <!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=IamArayel&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="IamArayel's GitHub Trophies" />
 </p> -->
@@ -118,7 +121,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/anthonydegeilh">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;
+  </a> &nbsp;&nbsp;
   <a href="https://anthonydegeilh.fr">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
