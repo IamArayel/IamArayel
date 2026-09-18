@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+</div>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=IamArayel&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Application%20Designer%20Developer&descSize=18&descAlignY=55&textBg=false"/>
 </p>
@@ -25,10 +29,10 @@
 
 <!-- <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=IamArayel&theme=github_dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="IamArayel's GitHub Trophies" />
-</p> -->
+</p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=IamArayel&theme=github_dark&radius=10" alt="IamArayel's Activity Graph" />
-</p>
+</p> -->
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
@@ -110,21 +114,28 @@
   </a>
 </p>
 
+<!-- 
 <div align="center">
 
   ![Top language](https://stats.pphat.top/languages?username=IamArayel)
 </div>
+ -->
 
 <br/>
 
 ## 🔗 Connect with Me
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/anthonydegeilh">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" /> LinkedIn
   </a> &nbsp;&nbsp;
+  <br>
+  <br>
   <a href="https://anthonydegeilh.fr">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" /> anthonydegeilh.fr
   </a>
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/arayel" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 </p>
 
 <!-- <picture>
@@ -133,7 +144,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture> -->
 
-<p align="center"><a href="https://www.buymeacoffee.com/arayel" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
