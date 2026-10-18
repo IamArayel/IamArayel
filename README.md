@@ -123,6 +123,21 @@
 
 <br/>
 
+## 🤝 Open Source Contributions
+<p align="center">
+  <a href="https://github.com/IamArayel/exchange-platform">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IamArayel&repo=exchange-platform&theme=github_dark&border_radius=10" alt="exchange-platform" />
+  </a>
+  <a href="https://github.com/IamArayel/edgepilot">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=IamArayel&repo=edgepilot&theme=github_dark&border_radius=10" alt="edgepilot" />
+  </a>
+</p>
+
+- 💱 **[exchange-platform](https://github.com/tomasz-franek/exchange-platform)** by [tomasz-franek](https://github.com/tomasz-franek) - `Angular` `Java`
+- 🖥️ **[edgepilot](https://github.com/pricootz/edgepilot)** by [pricootz](https://github.com/pricootz) - `C#` `Avalonia`
+
+<br/>
+
 ## 🔗 Connect with Me
 <p>
   <a href="https://linkedin.com/in/anthonydegeilh">
